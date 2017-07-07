@@ -1,4 +1,8 @@
 # miraging
+
+## The miraging project is formally moved to https://github.com/miraging on July 30th, 2016. The current version is no longer active.
+
+
 The microRNA for aging project.
 
 It includes two parts: the MIAGO ontology and RDF dataset that uses MIAGO's semantics.
